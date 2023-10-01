@@ -56,7 +56,7 @@ function create_fragment(ctx) {
 			button.textContent = "Click me";
 			attr(img, "class", "logo svelte-b64r4w");
 			attr(img, "alt", "logo");
-			if (!src_url_equal(img.src, img_src_value = "https://95a2c071.livecodes.pages.dev/livecodes/assets/templates/svelte.svg")) attr(img, "src", img_src_value);
+			if (!src_url_equal(img.src, img_src_value = "https://livecodes.io/livecodes/assets/templates/svelte.svg")) attr(img, "src", img_src_value);
 			attr(button, "class", "svelte-b64r4w");
 			attr(div, "class", "container svelte-b64r4w");
 		},

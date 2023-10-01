@@ -19,7 +19,7 @@
 
 <div class="container">
   <h1>Hello, {title}!</h1>
-  <img class="logo" alt="logo" src="https://95a2c071.livecodes.pages.dev/livecodes/assets/templates/svelte.svg" />
+  <img class="logo" alt="logo" src="https://livecodes.io/livecodes/assets/templates/svelte.svg" />
   <p>You clicked {counter} times.</p>
   <button on:click="{increment}">Click me</button>
 </div>
